@@ -1,4 +1,4 @@
-# 🔍 Google Search Operators & Security Awareness Cheatsheet
+# 🔍 Google Search Operators & Security Awareness Cheatshee
 
 > *“It is all fun and games until someone gets hacked!”*
 
